@@ -150,7 +150,7 @@ a, a:hover{
     left: 0;
     border-style: solid;
     border-color: transparent transparent var(--color) transparent;
-    border-width: 15px;
+    border-width: 12px;
 }
 .post .tags{
     margin: 0 4px;
@@ -278,7 +278,7 @@ a, a:hover{
         font-size: 3vw !important;
     }
     .post .mrak{
-        left: 0;
+        left: 5%;
         padding: 5px 5px 15px 5px;
         width: 15px;
         font-size: 6px;
