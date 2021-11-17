@@ -137,7 +137,7 @@ a, a:hover{
     left: 0;
     border-style: solid;
     border-color: transparent transparent var(--color) transparent;
-    border-width: 15px;
+    border-width: 12px;
 }
 .post .tags{
     margin: 0 4px;
